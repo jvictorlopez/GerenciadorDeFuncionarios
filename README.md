@@ -1,5 +1,5 @@
 # GerenciadorDeFuncionarios
-O "Gerenciador de Funcionários" é uma aplicação desenvolvida como parte dos meus aprendizados e práticas dos conceitos de programação orientada a objetos. O objetivo principal do projeto é permitir o gerenciamento eficiente dos funcionários em uma empresa, facilitando o cadastro, consulta, alteração e exclusão das informações de cada funcionário.
+O "Gerenciador de Funcionários" é uma aplicação desenvolvida como parte dos meus aprendizados e práticas das minhas habilidades em Programação Orientada a Objetos. O objetivo principal do projeto é permitir o gerenciamento eficiente dos funcionários em uma empresa, facilitando o cadastro, consulta, alteração e exclusão das informações de cada funcionário.
 
 Com esse sistema, é possível cadastrar novos funcionários, informando seus dados pessoais, cargo e salário. Além disso, é possível adicionar dependentes aos funcionários e calcular automaticamente o bônus mensal com base na quantidade de dependentes de cada funcionário.
 
